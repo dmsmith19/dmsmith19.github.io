@@ -1,7 +1,10 @@
 h1 {
     font-family: "Lucida Console", monospace;
-    color:mediumslateblue;
+    color:red;
     size:1.5em
+ }
+h1 {
+    text-align:center;
  }
 body {
     max-width: 800px;
