@@ -1,6 +1,5 @@
 h1 {
     font-family: "Lucida Console", monospace;
-    color:rgba(203, 70, 255, 0.815);
     size:1.5em
  }
 h1 {
@@ -16,7 +15,6 @@ h2 {
 p,ul,ol,dl {
     font-size: 1.1em;
   }
-  
 p, li, dd, dt {
     line-height: 1.5;
   }
@@ -25,18 +23,6 @@ a:link {
 }
 a:visited {
     color:goldenrod
-}
-dt {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-}
-.center{
-    text-align: center;
-}
-.right{
-    text-align: right;
-}
-.left{
-    text-align: left;
 }
 .column {
     flex: 33.33%;
@@ -50,5 +36,5 @@ dt {
      display: flex;
   }
 .image{
-    Padding: 20px,0px; //padding positions
+    Padding: 100px,0px; //padding positions
 }
