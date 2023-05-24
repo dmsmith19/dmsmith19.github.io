@@ -3,3 +3,7 @@ h1 {
     color:mediumslateblue;
     size:2em
  }
+body {
+    max-width: 800px;
+    margin: 0 auto;
+  }
