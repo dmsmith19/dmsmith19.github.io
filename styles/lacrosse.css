@@ -20,3 +20,9 @@ p,ul,ol,dl {
 p, li, dd, dt {
     line-height: 1.5;
   }
+a:link {
+    color:tomato
+}
+a:visited {
+    color:goldenrod
+}
