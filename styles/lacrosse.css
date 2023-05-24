@@ -1,9 +1,19 @@
 h1 {
     font-family: "Lucida Console", monospace;
     color:mediumslateblue;
-    size:2em
+    size:1.5em
  }
 body {
     max-width: 800px;
     margin: 0 auto;
+  }
+h2 {
+    font-size: 1.3em;
+  }
+p,ul,ol,dl {
+    font-size: 1.1em;
+  }
+  
+p, li, dd, dt {
+    line-height: 1.5;
   }
