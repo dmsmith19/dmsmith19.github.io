@@ -38,14 +38,14 @@ dt {
 .left{
     text-align: left;
 }
-.container {
-    display: grid;
-    grid-template-columns: 100px 150px 200px;
-    text-align: center;
-}
 .column {
-    padding: 16px;
-    height: 250px;
+    flex: 33.33%;
+    height: 200px;
+    padding: 10px;
     margin: 5px;
     background-color: #cccccc;
+    text-align: center;
+  }
+.container {
+     display: flex;
   }
